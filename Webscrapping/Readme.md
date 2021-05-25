@@ -14,7 +14,7 @@ after having all the result pages (**search_urls.txt**), the goal will be to web
     
 THIRD:
 having the URL for each specific product and alaredy a summary of their details in the search_output.json. Now again two parallel processes will happen:
-  - Using the** "products.yml"** the details wished to be retrieved are commanded with this code.
-  - This YML file is read and used along with the** "product.py"**  file which will produce the last file **"product_output.jsonl"** with all the necessary data to start the data analysis.
+  - Using the **"products.yml"** the details wished to be retrieved are commanded with this code.
+  - This YML file is read and used along with the **"product.py"**  file which will produce the last file **"product_output.jsonl"** with all the necessary data to start the data analysis.
 
 
