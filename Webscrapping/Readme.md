@@ -6,4 +6,4 @@ First:
 the first challange was to scrap the over 80.000 products resulting from the search for each items. For the latter the file: **create_search_urls.py** was created to retrieve all the resulting pages in the amazon search results for each item. The result from the process obtained from create_search_url.py will be stores in the **search_urls.txt** file, which will be later used to scrap the products contained on each results page.
 
 Second:
-after having all the result pages (**search_urls.txt**), the goal will be to scrap the products contained on each search results page. 
+after having all the result pages (**search_urls.txt**), the goal will be to webscrap the products contained on each search results page (about 20 products per page). For the latter, the file **search_urls.txt** is used which will read the search_url.txt and will produce two different files: 
